@@ -1,0 +1,54 @@
+{
+  "airlines": [
+    {
+      "airlineName": "Air India",
+      "contactNumber": "9879876541",
+      "contactAddress": "Ooty",
+      "flightNumber": "p6qc662b6",
+      "id": 1
+    },
+    {
+      "airlineName": "Deccan",
+      "contactNumber": "9879876541",
+      "contactAddress": "cbe",
+      "flightNumber": "nw83ms02z",
+      "id": 2
+    },
+    {
+      "airlineName": "test",
+      "contactNumber": "4567888",
+      "contactAddress": "trichy",
+      "flightNumber": "p2fjaioj8",
+      "id": 3
+    },
+    {
+      "airlineName": "test2",
+      "contactNumber": "9876546541",
+      "contactAddress": "TN",
+      "flightNumber": "r6z7uar51",
+      "id": 4
+    }
+  ],
+  "flights": [
+    {
+      "ffrom": "CHN",
+      "fto": "CBE",
+      "arrival": "2021-06-29T19:12",
+      "depature": "2021-07-02T19:12",
+      "seats": "2",
+      "price": "400",
+      "airlines": "Deccan",
+      "id": 1
+    },
+    {
+      "ffrom": "CBE",
+      "fto": "MDR",
+      "arrival": "2021-06-30T19:17",
+      "depature": "2021-07-08T19:17",
+      "seats": "6",
+      "price": "1200",
+      "airlines": "Air India",
+      "id": 2
+    }
+  ]
+}
